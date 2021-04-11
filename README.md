@@ -1,3 +1,4 @@
 # pgatour-data-analysis
-First Data Analysis project on Python, analysing PGA Tour Data (2010-18)
+First Data Analysis project using Python to analyse PGA Tour Data (2010-18) 
+
 
